@@ -103,6 +103,7 @@ Execute the program
 <H3>6. 19MA220 - Mathematics for Artificial Intelligence</H3>
 <H3>7. 19MA221 - Linear Algebra Laboratory</H3>
 <H3>8. 19EY703 - System of Numerical & Logical Terminologies</H3>
+<H3>9. 19MC802 - Environmental Science
 <center><br><br><div class="footer">
         <div class="container">
           <div class="row">
