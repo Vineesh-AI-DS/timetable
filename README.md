@@ -3,7 +3,7 @@
 <html>
 <center>
    <head>
-    <title>🗓️TIME TABLE🗓️</title>
+    🗓️TIME TABLE🗓️
     <link rel="icon" href="https://media.discordapp.net/attachments/533340656987275284/906080541344956436/kissclipart-saveetha-university-chennai-logo-clipart-saveetha-3a90c06681798db2.png" type="image/icon type">
   </head>
    <body>
