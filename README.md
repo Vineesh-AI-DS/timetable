@@ -73,7 +73,7 @@
              <td align="center">19MC802/Pandian</td>
              <td align="center">19MC802/Pandian</td>
              <td align="center">19MA301/Jaba Jasphin</td>
-             <td align="center">19MA301/</td>
+             <td align="center">19MA301/Jaba Jasphin</td>
              <td align="center">19AI402/Obed Otto</td>
              <td align="center">19AI402/Obed Otto</td>
          </tr>
