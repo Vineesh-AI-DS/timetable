@@ -108,43 +108,7 @@
    </body>
 
 </body>
-  <style>
-    body {
-      background: linear-gradient(to right, #ADD8EF, #FFB6C1);
-      color: #333333;
-      font-family: "Euclid Circular B Medium", Poppins;
-    }
-     <script>
-    .footer {
-      padding: 32px 0;
-      position: absolute;
-      width: 100%;
-      background-color: red;
-      color: white;
-      text-align: center;
-      background: rgba(255, 255, 255, 0.5);
-      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-      backdrop-filter: blur(9px);
-      -webkit-backdrop-filter: blur(9px);
-      border: 1px solid rgba(255, 255, 255, 0.18);
-    }
-    .footer p {
-      margin: 0;
-      line-height: 26px;
-      font-size: 15px;
-      color: #990099;
-    }
-    .footer p a {
-      background: linear-gradient(to right, #f27121, #e94057, #8a2387);
-      color: transparent;
-      -webkit-background-clip: text;
-      background-clip: text;
-      text-decoration: none;
-    }
-    .footer p a:hover {
-      color: white;
-    }
-  </style>
+  
 </html>
 
 ## Output:
